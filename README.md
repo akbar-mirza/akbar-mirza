@@ -58,10 +58,8 @@
 
 </div>
 
-<div align="center">
-
+ 
 ### 🧬 Current Runtime Config
-
 ```yaml
 status:       "✅ Operational (probably)"
 current_mood: "☕ caffeinated"
@@ -75,12 +73,6 @@ known_bugs:
   - Tabs vs spaces opinion: strong
   - Cannot leave a TODO comment unresolved
 ```
-
-</div>
-
----
-
-<div align="center">
 
 
 *"First, solve the problem. Then, write the code. Then, realise you misunderstood the problem."*
